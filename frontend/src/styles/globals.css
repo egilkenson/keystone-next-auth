@@ -14,3 +14,13 @@ a {
 * {
   box-sizing: border-box;
 }
+
+form {
+  display: flex;
+  flex-direction: column;
+  gap: .5rem
+}
+
+input {
+  display: block;
+}
